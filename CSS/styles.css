@@ -43,3 +43,10 @@ a, a:hover {
   right: 0;
   bottom: 0;
   z-index: 100; }
+
+.modal-header {
+  background-color: #17A2B8; }
+  .modal-header.login {
+    background-color: #901CAD; }
+  .modal-header h3 {
+    color: white; }
